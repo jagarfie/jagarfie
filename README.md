@@ -1,3 +1,3 @@
 # jagarfie
 # Hi, I'm Jade! 
-Customizing GitHub Profile for GIT215
+# *italicized text* I'm a first-year Graphic Information Technology student at Arizona State University
