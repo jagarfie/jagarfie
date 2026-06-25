@@ -9,3 +9,4 @@ My favorite places in the world are the Pike Place Market in Seattle, WA and the
 ![(After)Garfield_Jade Photography PostEdit](https://github.com/user-attachments/assets/0b35bae6-8ce8-4a2d-a5ed-70adc2aaf6a2)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagarfie)](https://github.com/anuraghazra/github-readme-stats)
 
+My background in web development started with an interest in coding on MySpace and I'm now on a journey to learn how to build websites. Someday I'd love to design websites for small local businesses such as restaurants.
